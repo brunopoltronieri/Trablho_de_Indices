@@ -1,0 +1,47 @@
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.deps.json
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.json
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.dev.json
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csprojAssemblyReference.cache
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csproj.CoreCompileInputs.cache
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfoInputs.cache
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfo.cs
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csprojAssemblyReference.cache
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csproj.CoreCompileInputs.cache
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfoInputs.cache
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfo.cs
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.deps.json
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.json
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.dev.json
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+D:\Google Drive\UCS\Ciência da Computação\6º Semestre\Organização de Arquivos\trabalho-maravilhoso\trabalho-maravilhoso-leocreginato-patch-1\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Tweetes consumer\Trabalho Leopoldo\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\bin\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csprojAssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Trabalho de Indices\obj\Debug\netcoreapp2.1\trabalho-maravilhoso.genruntimeconfig.cache
